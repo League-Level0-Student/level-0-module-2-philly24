@@ -66,7 +66,7 @@ public class DiceRoll {
 				label.setIcon(fiveImg);
 			} else if(randomChoice == 6)  {
 				label.setIcon(sixImg);
-			}
+			}  
 		});
 
 		panel.setPreferredSize(new Dimension(700, 700));

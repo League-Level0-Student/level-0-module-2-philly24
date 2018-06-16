@@ -35,12 +35,14 @@ for (int i = 0; i < compliments.length; i++) {
 */	
 
 
-for (int i = 0; i < 10; i++) { 
+ 
 	int randomNumber2 = randomMaker.nextInt(5);
+
 System.out.println(compliments[randomNumber2]);
 }
+
 		// 4. Repeat all the code above 10 times
 		
 		// 5. Find someone to test out your program. They will like it :)
 	}
-}
+
